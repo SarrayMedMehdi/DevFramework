@@ -1,7 +1,4 @@
 package com.education.core;
-/*
- *@author Med Mehdi Sarray
- */
 
 import com.education.core.business.metier.IBusinessObject;
 import com.education.core.io.DefaultDocumentLoader;
