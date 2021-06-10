@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean class="com.education.core.business.extension.ObjectDAOv3"/>
+    <bean class="com.education.core.business.metier.BusinessObject"
+          setterName="setDao" target="com.education.core.business.dao.IObjectDAO"/>
+</beans>

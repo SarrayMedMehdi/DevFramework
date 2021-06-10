@@ -1,0 +1,11 @@
+com\education\core\business\metier\MyAnnotation.class
+com\education\core\business\extension\ObjectDAOv2.class
+com\education\core\business\metier\IBusinessObject.class
+com\education\core\business\metier\BusinessObject.class
+com\education\core\io\DefaultDocumentLoader.class
+com\education\core\business\dao\IObjectDAO.class
+com\education\core\business\dao\ObjectDAO.class
+com\education\core\XmlBeanReader.class
+com\education\core\business\extension\ObjectDAOv3.class
+com\education\Main.class
+com\education\core\DocumentLoader.class
